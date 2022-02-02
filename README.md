@@ -17,6 +17,7 @@
 
 ## 2.其他相关链接
 1.安徽大学飞跃计划项目网址（提供相关的学习指导）：http://www.ahu.wiki/
+
 2.安徽大学计算机科学学院相关github项目地址：https://github.com/AHU-G
 
 
